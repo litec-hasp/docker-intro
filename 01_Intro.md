@@ -6,7 +6,7 @@
 
 - Open Source Projekt
 - Engine zum Standardisieren von Prozessumgebungen unter Linux
-- *"build, ship and run (distribruted) applications"*
+- *"build, ship and run (distributed) applications"*
 - Für Developer und SysAdmins
 - Verwendung bestehender Container-Technologien (LXC / libcontainer / ...)
 - Einfaches Erstellen und Teilen von Container *Images*
