@@ -110,11 +110,12 @@ add explanations
 
 ---
 
-### Docker CLI Commands <small>Part 1</small>
+### Docker Commands <small>Part 1</small>
 
-> @todo
+> Why recreate work done well?
 
-see [Cheat-Sheet](./cheat-sheets/docker-commands-cheat-sheet.pdf)
+- See [The Ultimate Docker Cheat Sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/)
+- and the accoring github page: [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs).
 
 ---
 
@@ -190,3 +191,4 @@ docker run -it --net=mynetwork ubuntu
   - [Docker presentation](http://theodorosploumis.github.io/docker-presentation/#/)
   - and [Presentation @ Docker Hub](https://hub.docker.com/r/tplcom/docker-presentation)
 - [Docker CheatSheet](https://www.jrebel.com/blog/docker-commands-cheat-sheet)
+- And to really dig into docker - again: [Dockerlabs](https://github.com/collabnix/dockerlabs).
