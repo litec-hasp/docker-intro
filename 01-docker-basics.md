@@ -2,6 +2,7 @@
 # Docker Introduction
 
 The Basics
+
 ---
 
 ## What is Docker?
@@ -70,7 +71,7 @@ The Basics
 
 ### Storage, Images und Container
 
-![docker container layers](.\img\DockerLayers_sml.jpg)
+![docker container layers](./img/DockerLayers_sml.jpg)
 
 - Everything is based on layers
 - except for the topmost layer everything is just read-only
