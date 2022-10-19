@@ -2,6 +2,10 @@
 
 A tutorial on docker and docker compose.
 
+![xkcd: Containers](https://imgs.xkcd.com/comics/containers.png)
+
+<small>[image source: xkcd #1988](https://xkcd.com/1988)</small>
+
 ## Where and How to Start?
 
 **START HERE**: [github pages](https://litec-hasp.github.io/docker-intro/)- a slide show of this repository.
