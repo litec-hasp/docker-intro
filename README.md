@@ -1,12 +1,10 @@
-# Git Intro
+# Docker Intro
 
-A tutorial on git and github.
-
-![xkcd1597](https://imgs.xkcd.com/comics/git.png)
+A tutorial on docker and docker compose.
 
 ## Where and How to Start?
 
-**START HERE**: [github pages](https://litec-hasp.github.io/git-intro/)- a slide show of this repository.
+**START HERE**: [github pages](https://litec-hasp.github.io/docker-intro/)- a slide show of this repository.
 
 Otherwise have a look at the markdown files above...
 
