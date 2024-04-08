@@ -64,7 +64,7 @@ The Basics
   - changes can be transfered to a new image ("commit")
 - **Docker Regisitries**
   - image repository
-  - private or publick
+  - private or public
   - e.g. [Docker Hub](https://hub.docker.com/)
 
 ---
